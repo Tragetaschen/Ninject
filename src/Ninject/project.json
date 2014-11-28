@@ -1,0 +1,7 @@
+{
+    "version": "3.0.1.10",
+    "frameworks": {
+        "dnx451": { }
+    },
+    "compilationOptions": { "define": [ "MONO" ] }
+}
