@@ -1,0 +1,7 @@
+{
+    "version": "3.0.1.10",
+    "frameworks": {
+        "aspnet50": { }
+    },
+    "compilationOptions": { "define": [ "MONO" ] }
+}
